@@ -1,0 +1,22 @@
+{
+  "name": "@ptt/m1",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/App.jsx",
+  "engines": {
+    "node": "14"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\"",
+    "start": ""
+  },
+  "keywords": [],
+  "author": "Mathias Gheno Azzolini <mathiasgheno@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-is": "^18.0.0",
+    "styled-components": "^5.3.5"
+  }
+}
