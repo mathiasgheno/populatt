@@ -6,7 +6,7 @@ const H1 = styled.h1`
   color: red;
 `;
 
-export const Module2 = () => {
+export const App = () => {
   return (
     <div>
       <H1>I'm Module 2 in Red</H1>
@@ -14,4 +14,4 @@ export const Module2 = () => {
   )
 }
 
-export default Module2;
+export default App;

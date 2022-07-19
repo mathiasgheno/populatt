@@ -6,12 +6,12 @@ const H1 = styled.h1`
 
 import React from 'react';
 
-export const Module1 = () => {
+export const App = () => {
   return (
     <div>
-      <H1>I'm Module 2 in Blue</H1>
+      <H1>I'm Module 1 in Blue</H1>
     </div>
   )
 }
 
-export default Module1;
+export default App;
